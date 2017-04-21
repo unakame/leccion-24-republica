@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+}
+
+ul{
+  background-color: #E00109;
+}
+
+li{
+  list-style: none;
+}
+
+.title{
+  color: #FFF;
+  margin-left: 80px;
+  font-size: 40px;
+}
+
+#bar{
+  background-color: #5C5C66;
+  width: auto;
+  height: 40px;
+}
+
+.mini{
+  background-color: #4E4E5A;
+}
+
+.theme{
+  color: #fff;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.mini{
+  /*padding-left: 20px;
+  margin-top: -40px;
+  margin-left: 125px;
+  margin-right: 125px;
+  position: absolute;*/
+  width: 1000px;
+  height: 40px;
+  margin-left: 125px;
+  margin-top: -40px;
+}
