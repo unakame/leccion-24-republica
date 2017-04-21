@@ -72,13 +72,13 @@ body{
    display: inline-block;
    background: url('../../img/descarga.png');
    background-repeat: no-repeat;
-   overflow: hidden;
-   text-indent: -9999px;
-   text-align: left;
+   /*overflow: hidden;*/
+  /* text-indent: -9999px;*/
+   /*text-align: left;*/
   }
 
 .odebrecht {
-   background-position: -0px -0px;
+   background-position: -50px -0px;
    width: 425px;
    height: 250px;
   }
@@ -112,8 +112,21 @@ body{
   width: 243px;
   height: 270px;
    }
+
 .senora {
   background-position: -312px -250px;
   width: 53px;
   height: 84px;
    }
+
+.new{
+  width: 280px;
+  height: 250px;
+  background-color: #333340;
+}
+
+p{
+  color: #fff;
+  font-size: 25px;
+  font-family: 'Lato';
+}
