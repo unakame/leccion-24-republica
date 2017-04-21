@@ -50,3 +50,13 @@ li{
   color: #fff;
   font-size: 20px;
 }
+
+#background{
+  width: 1000px;
+  height: 1000px;
+  background-color: #FFFFFF;
+  margin-left: 125px;
+}
+body{
+  background-color: #EBEBEB;
+}
