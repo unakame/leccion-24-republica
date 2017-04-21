@@ -22,24 +22,31 @@ li{
   height: 40px;
 }
 
-.mini{
-  background-color: #4E4E5A;
-}
-
 .theme{
   color: #fff;
   margin-left: 10px;
   margin-right: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
 }
 
 .mini{
-  /*padding-left: 20px;
-  margin-top: -40px;
-  margin-left: 125px;
-  margin-right: 125px;
-  position: absolute;*/
+  background-color: #4E4E5A;
   width: 1000px;
   height: 40px;
   margin-left: 125px;
   margin-top: -40px;
+}
+
+#icons{
+  margin-left: 500px;
+  position: relative;
+}
+
+#icon1,
+#icon2,
+#icon3,
+#icon4{
+  color: #fff;
+  font-size: 20px;
 }
