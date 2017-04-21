@@ -53,10 +53,32 @@ li{
 
 #background{
   width: 1000px;
-  height: 1000px;
+  height: 550px;
   background-color: #FFFFFF;
   margin-left: 125px;
 }
 body{
   background-color: #EBEBEB;
 }
+
+/*.odebrecht{
+  background-image: url(../img/descarga.png);
+  background-repeat: no-repeat;
+}
+
+.odebrecht{
+  height: 250px;
+  background-position: -5px -5px;
+}
+*/
+.odebrecht, .alejandra-aramayo, .corea-del-norte, .anuncio, .logo,
+.alcalde-de-chilca, .senora
+{ display: inline-block; background: url('../../img/descarga.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+
+.odebrecht { background-position: -0px -0px; width: 425px; height: 250px; }
+.alejandra-aramayo { background-position: -0px -250px; width: 312px; height: 165px; }
+.corea-del-norte { background-position: -0px -415px; width: 312px; height: 165px; }
+.anuncio { background-position: -0px -580px; width: 310px; height: 86px; }
+.logo { background-position: -0px -666px; width: 281px; height: 49px; }
+.alcalde-de-chilca { background-position: -0px -715px; width: 243px; height: 270px; }
+.senora { background-position: -312px -250px; width: 53px; height: 84px; }
